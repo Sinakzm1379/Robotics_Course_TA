@@ -1,1 +1,1 @@
-
+The original game was a simple maze generator implemented in Python using the Pygame library. It featured a maze with a starting point, an endpoint, and a player-controlled ball. Players could navigate the ball using the keyboard's WASD keys, attempting to reach the endpoint while avoiding obstacles in the maze
